@@ -11,18 +11,17 @@ Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love
 ## Skills 🛠️
 
 - Teaching of computer science education
+- System analysis and design
 - Programming languages: Pascal, JavaScript, C, C++, Python (Learning)
-- Web frameworks: PHP
-- Cloud services: Oracle Cloud
-- Other tools: Git, Docker, LXD
+- Application packages: Microsoft Offices
 
-## Projects <img src="https://github.com/taofiktafa/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
-
-Here are some of the projects that I have worked on or contributed to:
+## Research Interests 👨‍💻
+-  AI integration in education
+-  ICT integration in teacher education
 
 ## Work Experience 💼
 
-- I have worked for several institutions over the last couple of years, starting in 2003 where I took an teaching role at Polytechnic Talata Mafara, a technical tertiary institution based in Nigeria. I then worked at Federal College of Education (Technical) Gusau Nigeria as a Computer Science Educator (https://fcetgusau.edu.ng)
+- I have worked for several institutions over the last couple of years, starting in 2003 where I took an teaching role at Polytechnic Talata Mafara, a public technical tertiary institution based in Nigeria. I then worked at Federal College of Education (Technical) Gusau Nigeria as a Computer Science Educator (https://fcetgusau.edu.ng)
 
 ## Education and Training 🎓
 
@@ -30,9 +29,15 @@ Here are some of the projects that I have worked on or contributed to:
 - Technical Teacher Certificate at Federal College of Education (Technica) Gusau Nigeria (2009 - 2010)
 - Master of Science in Computer Science at University of Wolverhampton UK (2013 - 2014)
 
-## Blog 📝
+## Publications 📝
 
-I regularly write articles on my blog about various topics related to computer science education, artificial intelligence, and more. Here are some of my recent posts:
+I have written and published articles on computer science education and ICT integration in education. Here are some of my published articles:
+
+1.	ADEYEMO, S. O, TAFA, T. O. & OYERINDE, O. O. (2023). EFFECTS OF AUDIO-VISUAL AIDS ON ACADEMIC ACHIEVEMENT IN COMPUTER STUDIES AMONG SECONDARY SCHOOL STUDENTS IN NORTH-WEST NIGERIA. ZAMFARA INTERNATIONAL JOURNAL OF EDUCATION (ZIJE). VOL. 3, NO. 5, P 121-127. ISSN 2814-1377. (https://zenodo.org/records/10431458)
+2.	TAFA, T. O., ADEYEMO, S. O, ABUBAKAR, B. O. & ISAH, K. O. (2023). EFFICACY OF INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) SKILLS ON COMPETENCY LEVEL AMONG SECONDARY SCHOOL COMPUTER TECHERS IN ZAMFARA STATE. ZAMFARA INTERNATIONAL JOURNAL OF EDUCATION (ZIJE). VOL. 3, NO. 3, P 43-49. ISSN 2814-1377. (https://zenodo.org/records/10027469)
+3.	TAFA, T. O., ADEYEMO, S. O., OLOWONISI, V. O. & MUSA, H. (2023). SOCIAL MEDIA AND LIBRARY PATRONAGE AMONG STUDENTS OF COLLEGES OF EDUCATION IN NIGERIA. JOURNAL OF NIGERIA ACADEMY OF EDUCATION (JONAED). VOL. 19 NO. 1, P 117-129.  ISSN 2278-095X. (https://www.naejournal.org.ng/pdfarticles/JonaedVol_19_No1Art9.pdf)
+4.	TAFA, T. O., SHUAIB, A. A. & SULEIMAN, A. J. (2020). A STUDY OF CYBERCRIMES AWARENESS AND INVOLVEMENT AMONG STUDENTS OF TERTIARY INSTITUTIONS IN ZAMFARA STATE OF NIGERIA. INTERNATIONAL JOURNAL OF RESEARCH IN EDUCATION, SCIENCE AND TECHNOLOGY. VOL. 3, NO. 3, P 36-44. ISSN 2649-7440. (https://mail.globalacademicstar.com/download/article/1137068172.pdf)
+
 
 ## Contact Me 📫
 
@@ -41,6 +46,8 @@ If you want to get in touch with me, you can reach me through any of the followi
 - Email: taofiktafa@gmail.com ✉️
 - LinkedIn: [taofiktafa](https://www.linkedin.com/in/taofiktafa/) 💼
 - GitHub: [taofiktafa](https://github.com/taofiktafa) 🐱
+- Facebook: [Taofik Tafa](https://www.facebook.com/taofiktafa) ![image](https://github.com/taofiktafa/taofiktafa/assets/162001740/0c096f46-6197-4ee3-869f-6c6758903c48)
+
 
 
 
