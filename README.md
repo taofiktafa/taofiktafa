@@ -21,7 +21,7 @@ Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love
 
 ## Work Experience 💼
 
-- I have worked with couple of institutions over the last twenty years, starting in 2003 where I took an teaching role at Abdu Gusau Polytechnic Talata Mafara (https://agpmafara.edu.ng/), a public technical tertiary institution based in Nigeria. I am presently with Federal College of Education (Technical) Gusau Nigeria (https://fcetgusau.edu.ng) as a **Computer Science Educator** involves in training computer science teachers needed at the basic education level.
+- I have worked with couple of institutions over the last twenty years, starting in 2003 when I took an teaching role with Abdu Gusau Polytechnic Talata Mafara (https://agpmafara.edu.ng/), a public technical tertiary institution based in Nigeria. I am presently with Federal College of Education (Technical) Gusau Nigeria (https://fcetgusau.edu.ng) as a **Computer Science Educator** involves in training computer science teachers needed at the basic education level.
 
 ## Education and Training 🎓
 
