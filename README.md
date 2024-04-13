@@ -1,27 +1,27 @@
 
 
 <div align="center"><img src="https://github.com/taofiktafa/taofiktafa/assets/162001740/423fb7dd-740b-432f-90a4-c2b3ef7bca33" width="300"></div>
-<h1 align="center">Taofik Tafa 👨‍💻</h1>
+<h1 align="center">Taofik Tafa</h1>
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/taofiktafa/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in computer science education, system alaysis and design,  system administration, etc. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
+Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in computer science education, system alaysis and design,  system administration, etc. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy reading, sharing my knowledge with others, and listening to news and current affairs issues.
 
 ## Skills 🛠️
 
 - Teaching of computer science education
 - System analysis and design
-- Programming languages: BASIC, FORTRAN, Pascal, JavaScript, C, C++, Python (Learning)
+- Programming languages: BASIC, FORTRAN, Visual BASIC, Pascal, JavaScript, C, C++, Python (Learning)
 - Application packages: Microsoft Offices
 
-## Research Interests 👨‍💻
+## Research Interests 📚
 -  AI integration in education
 -  ICT integration in teacher education
 
 ## Work Experience 💼
 
-- I have worked for several institutions over the last couple of years, starting in 2003 where I took an teaching role at Polytechnic Talata Mafara (https://agpmafara.edu.ng/), a public technical tertiary institution based in Nigeria. I then worked at Federal College of Education (Technical) Gusau Nigeria (https://fcetgusau.edu.ng) as a Computer Science Educator involves in training computer science teachers needed at the basic education level.
+- I have worked with couple of institutions over the last twenty years, starting in 2003 where I took an teaching role at Abdu Gusau Polytechnic Talata Mafara (https://agpmafara.edu.ng/), a public technical tertiary institution based in Nigeria. I am presently with Federal College of Education (Technical) Gusau Nigeria (https://fcetgusau.edu.ng) as a Computer Science Educator involves in training computer science teachers needed at the basic education level.
 
 ## Education and Training 🎓
 
@@ -53,11 +53,16 @@ I have attended and presented papers at several academic forums, among which are
 6.	Tafa, T. O., Adepoju, F. D. & Olowonisi, V. O. (2019). Integration of ICT in basic education: prospects for effective curriculum implementation. A paper presented at the 9th national conference and workshop of School of Secondary Education (Science), Federal College of Education (Technical) Gusau. 24th to 26th June 2019.
 7.	Tafa, T. O. (2017). Effective use of information and communication technology tools in tackling security challenges in Nigeria. A paper presented at the 2ndnational conference of Academic Staff Union of Polytechnics (ASUP) Federal Polytechnic Kaura Namoda. 21st to 23rd November 2017.
 
-## Achievements 💼
+## Achievements 🏆
 -  Participated in designing payroll system using Visual BASIC for Federal College of Education (Technical) Gusau in 2007. 
 -  Designed a temporary students' result processing template using Microsoft Excel for Federal College of Education (Technical) Gusau in 2008.
 -  Appointed as Director of Nigeria Certificate of Education (NCE) Intensive Programme at Federal College of Education (Technical) Gusau (August 2018 - June 2019).
 -  Apointed as Head of Computer Science Education Department at Federal College of Education (Technical) Gusau (June 2019 - January 2024).
+
+## Professional Bodies Membership 👥
+-  Member, Nigeria Computer Society
+-  Member, Teachers Registration Council of Nigeria
+-  Member, Computer Educators Association of Nigeria
 
 ## Contact Me 📫
 
