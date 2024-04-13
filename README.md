@@ -53,6 +53,11 @@ I have attended and presented papers at several academic forums, among which are
 6.	Tafa, T. O., Adepoju, F. D. & Olowonisi, V. O. (2019). Integration of ICT in basic education: prospects for effective curriculum implementation. A paper presented at the 9th national conference and workshop of School of Secondary Education (Science), Federal College of Education (Technical) Gusau. 24th to 26th June 2019.
 7.	Tafa, T. O. (2017). Effective use of information and communication technology tools in tackling security challenges in Nigeria. A paper presented at the 2ndnational conference of Academic Staff Union of Polytechnics (ASUP) Federal Polytechnic Kaura Namoda. 21st to 23rd November 2017.
 
+## Achievements 💼
+-  Participated in designing payroll system using Visual BASIC for Federal College of Education (Technical) Gusau in 2007. 
+-  Designed a temporary students' result processing template using Microsoft Excel for Federal College of Education (Technical) Gusau in 2008.
+-  Appointed as Director of Nigeria Certificate of Education (NCE) Intensive Programme at Federal College of Education (Technical) Gusau (August 2018 - June 2019).
+-  Apointed as Head of Computer Science Education Department at Federal College of Education (Technical) Gusau (June 2019 - January 2024).
 
 ## Contact Me 📫
 
