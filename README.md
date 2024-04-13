@@ -69,7 +69,7 @@ I have attended and presented papers at several academic forums, among which are
 If you want to get in touch with me, you can reach me through any of the following channels:
 
 - Email: taofiktafa@gmail.com, tafa@graduate.utm.my, taofiktafa@fcetgusau.edu.ng ✉️
-- LinkedIn: [taofiktafa](https://www.linkedin.com/in/taofiktafa/) 💼
+- LinkedIn: [taofiktafa](https://www.linkedin.com/in/taofik-tafa-348835102/) 💼
 - GitHub: [taofiktafa](https://github.com/taofiktafa) 🐱
 - Facebook: [Taofik Tafa](https://www.facebook.com/taofiktafa) 
 
