@@ -21,7 +21,7 @@ Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love
 
 ## Work Experience 💼
 
-- I have worked with couple of institutions over the last twenty years, starting in 2003 where I took an teaching role at Abdu Gusau Polytechnic Talata Mafara (https://agpmafara.edu.ng/), a public technical tertiary institution based in Nigeria. I am presently with Federal College of Education (Technical) Gusau Nigeria (https://fcetgusau.edu.ng) as a Computer Science Educator involves in training computer science teachers needed at the basic education level.
+- I have worked with couple of institutions over the last twenty years, starting in 2003 where I took an teaching role at Abdu Gusau Polytechnic Talata Mafara (https://agpmafara.edu.ng/), a public technical tertiary institution based in Nigeria. I am presently with Federal College of Education (Technical) Gusau Nigeria (https://fcetgusau.edu.ng) as a **Computer Science Educator** involves in training computer science teachers needed at the basic education level.
 
 ## Education and Training 🎓
 
@@ -33,13 +33,13 @@ Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love
 
 I have written and published articles on computer science education and ICT integration in education. Here are some of my published articles:
 
-1.	Adeyemo, S. O, Tafa, T. O. & Oyerinde, O. O. (2023). Effects of audio-visual aids on academic achievement in computer studies among secondary school students in North-West Nigeria. Zamfara International Journal of Education (ZIJE). Vol. 3, No. 5, P 121-127. ISSN 2814-1377. (https://zenodo.org/records/10431458).
-2.	Tafa, T. O., Adeyemo, S. O, Abubakar, B. O. & Isah, K. O. (2023). Efficacy of information and communication technology (ICT) skills on competency level among secondary school computer teachers in Zamfara state. Zamfara International Journal of Education (ZIJE). Vol. 3, No. 3, P 43-49. ISSN 2814-1377. (https://zenodo.org/records/10027469).
-3.	Tafa, T. O., Adeyemo, S. O., Olowonisi, V. O. & Musa, H. (2023). Social media and library patronage among students of colleges of education in Nigeria. Journal of Nigeria academy of education (JONAED). Vol. 19 No. 1, P 117-129.  ISSN 2278-095X. (https://www.naejournal.org.ng/pdfarticles/jonaedvol_19_No1Art9.pdf).
+1.	Adeyemo, S. O, Tafa, T. O. & Oyerinde, O. O. (2023). Effects of audio-visual aids on academic achievement in computer studies among secondary school students in North-West Nigeria. *Zamfara International Journal of Education (ZIJE). Vol. 3, No. 5, P 121-127. ISSN 2814-1377*. (https://zenodo.org/records/10431458).
+2.	Tafa, T. O., Adeyemo, S. O, Abubakar, B. O. & Isah, K. O. (2023). Efficacy of information and communication technology (ICT) skills on competency level among secondary school computer teachers in Zamfara state. *Zamfara International Journal of Education (ZIJE). Vol. 3, No. 3, P 43-49. ISSN 2814-1377*. (https://zenodo.org/records/10027469).
+3.	Tafa, T. O., Adeyemo, S. O., Olowonisi, V. O. & Musa, H. (2023). Social media and library patronage among students of colleges of education in Nigeria. *Journal of Nigeria academy of education (JONAED). Vol. 19 No. 1, P 117-129.  ISSN 2278-095X*. (https://www.naejournal.org.ng/pdfarticles/jonaedvol_19_No1Art9.pdf).
 4.	Suleiman, B., Umar, S., Kalim, A., Nafiu, M. & Tafa, T. (2023). Effects of computer aided instruction strategy on secondary school students’ achievement and retention in mathematics toward national development. In A. I. Idown. M. G. Maitafsir, a. A. Bagudo & s. A. Tijani (eds), creitical issues in education: annexing educational theory and practice in Nigeria (pp. 339-350). Kaduna, Nigeria: Nasara Press Ltd. ISBN 978-978-988-178-9. (https://www.researchgate.net/publication/371965968_EFFECT_OF_COMPUTER_AIDED_INSTRUCTION_STRATEGY_ON_SECONDARY_SCHOOL_STUDENTS'_ACHIEVEMENT_AND_RETENTION_IN_MATHEMATICS).
-5.	Tafa, T. O., Shuaib, A. A. & Suleiman, A. J. (2020). A study of cybercrimes awareness and involvement among students of tertiary institutions in Zamfara state of Nigeria. International Journal of Research in Education, Science and Technology. Vol. 3, No. 3, P 36-44. ISSN 2649-7440. (https://mail.globalacademicstar.com/download/article/1137068172.pdf).
-6.	Tafa, T. O. (2016). Web-based automatic marking of programming coursework. West African Journal of Science and Educational Research (WAJOSER). Vol. 3, No. 1, P 155-168.ISSN 978-065-9725-7.
-7.	Tafa, T. O., Adeyemo, S. O. & Abubakar, D. (2014). Design of home automation system using Arduino, Zigbee and mobile web application. West African Journal of Science and Educational Research (WAJOSER). Vol. 2 No. 1, P 67-77. ISSN 978-065-9725-7.
+5.	Tafa, T. O., Shuaib, A. A. & Suleiman, A. J. (2020). A study of cybercrimes awareness and involvement among students of tertiary institutions in Zamfara state of Nigeria. *International Journal of Research in Education, Science and Technology. Vol. 3, No. 3, P 36-44. ISSN 2649-7440*. (https://mail.globalacademicstar.com/download/article/1137068172.pdf).
+6.	Tafa, T. O. (2016). Web-based automatic marking of programming coursework. *West African Journal of Science and Educational Research (WAJOSER). Vol. 3, No. 1, P 155-168.ISSN 978-065-9725-7*.
+7.	Tafa, T. O., Adeyemo, S. O. & Abubakar, D. (2014). Design of home automation system using Arduino, Zigbee and mobile web application. *West African Journal of Science and Educational Research (WAJOSER). Vol. 2 No. 1, P 67-77. ISSN 978-065-9725-7*.
 
 
 ## Conferences Attendance 📝
