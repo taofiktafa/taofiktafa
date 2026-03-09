@@ -16,6 +16,7 @@ Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love
 - Application packages: Microsoft Offices
 
 ## Research Interests 📚
+-  Machine translation of low-resource languages
 -  AI integration in education
 -  ICT integration in teacher education
 
