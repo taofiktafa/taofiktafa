@@ -6,7 +6,7 @@
 ## About Me 🚀
 <div align="center"><img src="https://github.com/taofiktafa/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in computer science education, system alaysis and design,  system administration, etc. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy reading, sharing my knowledge with others, and listening to news and current affairs issues.
+Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in computer science education, AI-driven education, system alaysis and design,  system administration, machine translation etc. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy reading, sharing my knowledge with others, and listening to news and current affairs issues.
 
 ## Skills 🛠️
 
