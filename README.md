@@ -13,6 +13,7 @@ Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love
 -  Machine translation of low-resource languages
 -  AI integration in education
 -  ICT integration in teacher education
+-  Machine translation for low-resource languages
 
 ## Work Experience 💼
 
